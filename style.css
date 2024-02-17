@@ -1,0 +1,11 @@
+div{
+    background: rgb(238, 238, 145);
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: red;
+}
+p{
+    background-color: aquamarine;
+    font-style: italic;
+    color: rgb(255, 55, 0);
+}
